@@ -23,7 +23,7 @@ Open http://localhost:8765. No dependencies or build step are required.
 
 GitHub Pages serves the root directory of the `main` branch. Push changes to `main` to update the site.
 
-Public URL: https://mritunjaybhardwaj.github.io/kubecompass-showcase/
+Public URL: https://mritunjaykumar.github.io/kubecompass-showcase/
 
 ## Scope
 
